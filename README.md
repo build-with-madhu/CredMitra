@@ -8,19 +8,19 @@ CredMitra is a voice-first financial ledger and Udhaar manager designed for loca
 
 ### 1. Home Screen
 Voice-first interface with daily sales & expense summary.
-![Home Screen](Screenshot%202026-09-19%20235727.png)
+![Home Screen](Home.png)
 
 ### 2. Record Screen
 Speech recording screen with real-time audio waveform.
-![Record Screen](Screenshot%202026-09-19%20235816.png)
+![Record Screen](Record.png)
 
 ### 3. Review Record Screen
 Verification step to review transcribed numbers before saving.
-![Review Record Screen](Screenshot%202026-09-19%20235836.png)
+![Review Record Screen](Review-Record.png)
 
 ### 4. Credit / Udhaar Screen
 Per-person customer balance cards with pending and paid payment tags.
-![Credit Screen](Screenshot%202026-09-19%20235855.png)
+![Credit Screen](Credit-History.png)
 
 ---
 
